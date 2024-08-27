@@ -10,4 +10,8 @@ class VendasApiApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void contextLoa() {
+	}
+
 }
